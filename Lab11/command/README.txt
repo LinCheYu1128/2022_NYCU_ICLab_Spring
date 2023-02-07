@@ -1,0 +1,10 @@
+load
+floorplan
+powerplan
+placement
+preCTS
+CTS
+postCTS
+nanoRoute
+postRoute
+addFiller
